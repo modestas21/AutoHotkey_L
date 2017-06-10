@@ -1,0 +1,10 @@
+f::Click
+Return
+d::MouseMove, 0, 30, 1, R
+Return
+
+
+l::Click
+Return
+k::MouseMove, 0, -30, 1, R
+Return﻿
